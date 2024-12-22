@@ -1,0 +1,36 @@
+body {
+    background-color:#d9d9d9;
+    font-family: Arial, sans-serif;
+}
+.navbar a {
+    color: #5C3B7A;
+    font-weight: bold;
+}
+#logo{
+    width: 55px;
+}
+footer {
+    background-color: #5C3B7A;
+    color: #fff;
+    padding: 20px 0;
+}
+
+footer-icons a {
+    color: #fff;
+    margin-right: 15px;
+    font-size: 20px;
+  
+}
+footer a{
+    text-decoration: none;
+    color: #fff;
+}
+.btn-purple {
+    background-color: #5C3B7A;
+    color: #fff;
+}
+
+.btn-purple:hover {
+    background-color: #462e5b;
+    color: #fff;
+}
